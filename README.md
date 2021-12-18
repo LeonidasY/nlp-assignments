@@ -17,3 +17,8 @@ Both NLP problems were solved using neural network methods implemented using the
 The steps taken for each method are described in a series of reports as follows:
 - [POS Tagging Report](https://github.com/LeonidasY/unibo-nlp-assignments/blob/main/Assignment%201/Report.pdf)
 - [Fact Checking Report](https://github.com/LeonidasY/unibo-nlp-assignments/blob/main/Assignment%202/Report.pdf)
+
+## Notebooks
+The notebooks may be viewed directly using the following links:
+- [POS Tagging Report](https://nbviewer.org/github/LeonidasY/unibo-nlp-assignments/blob/main/Assignment%201/main.ipynb)
+- [Fact Checking Report](https://nbviewer.org/github/LeonidasY/unibo-nlp-assignments/blob/main/Assignment%202/main.ipynb)
