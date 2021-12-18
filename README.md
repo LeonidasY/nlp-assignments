@@ -20,5 +20,5 @@ The steps taken for each method are described in a series of reports as follows:
 
 ## Notebooks
 The notebooks may be viewed directly using the following links:
-- [POS Tagging Notebook](https://nbviewer.org/github/LeonidasY/unibo-nlp-assignments/blob/main/Assignment%201/main.ipynb)
-- [Fact Checking Notebook](https://nbviewer.org/github/LeonidasY/unibo-nlp-assignments/blob/main/Assignment%202/main.ipynb)
+- [POS Tagging Notebook](https://nbviewer.org/github/LeonidasY/unibo-nlp-assignments/blob/main/Assignment%201/main.ipynb?flush_cache=false)
+- [Fact Checking Notebook](https://nbviewer.org/github/LeonidasY/unibo-nlp-assignments/blob/main/Assignment%202/main.ipynb?flush_cache=false)
