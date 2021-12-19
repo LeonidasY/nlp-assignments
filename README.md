@@ -9,9 +9,9 @@ The University of Bologna (UniBo) Natural Language Processing (NLP) assignments 
 Both NLP problems were solved using neural network methods implemented using the Keras library.
 
 ## Authors
-- Anna Fabris
-- Miki Mizutani
-- Leonidas Gee
+- [Anna Fabris](https://github.com/annafabris)
+- [Miki Mizutani](https://github.com/mikimizutani)
+- [Leonidas Gee](https://github.com/LeonidasY)
 
 ## Methodologies
 The steps taken for each method are described in a series of reports as follows:
