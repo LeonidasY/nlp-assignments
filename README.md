@@ -1,10 +1,13 @@
 # UniBo NLP Assignments
 
 ## Overview
-The University of Bologna (UniBo) Natural Language Processing (NLP) assignments involves the solving of two NLP problems: part-of-speech (POS) tagging and fact checking. 
+The University of Bologna (UniBo) Natural Language Processing (NLP) assignments. 
 
-- POS tagging is the process of marking up a word in a text as corresponding to a particular part of speech, based on both its definition and its context. 
-- Fact checking is the process that seeks to verify sometimes factual information, in order to promote the veracity and correctness of reporting. 
+#### Assignment 1 - Part-of-speech (POS) tagging
+POS tagging is the process of marking up a word in a text as corresponding to a particular part of speech, based on both its definition and its context. 
+
+#### Assignment 2 - Fact checking
+Fact checking is the process that seeks to verify sometimes factual information, in order to promote the veracity and correctness of reporting. 
 
 Both NLP problems were solved using neural network methods implemented using the Keras library.
 
